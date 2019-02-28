@@ -1,0 +1,5 @@
+matplotlib
+Flask
+pandas
+sympy
+jupyter
